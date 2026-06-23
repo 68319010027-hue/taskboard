@@ -1,6 +1,7 @@
 # TaskBoard — ระบบจัดการงาน
 
-![CI](https://github.com/<username>/taskboard/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/68319010027-hue/taskboard/actions/workflows/ci.yml/badge.svg)
+![CD](https://github.com/68319010027-hue/taskboard/actions/workflows/cd.yml/badge.svg)
 
 ระบบ CRUD สำหรับจัดการงาน สร้างด้วย Express.js + PostgreSQL + Vue 3
 
@@ -13,7 +14,7 @@
 ## วิธีรัน (Local)
 ```bash
 # Clone
-git clone https://github.com/<username>/taskboard.git
+git clone https://github.com/68319010027-hue/taskboard.git
 cd taskboard
 
 # รัน ด้วย Docker Compose
